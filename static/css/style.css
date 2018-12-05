@@ -1,0 +1,16 @@
+#success{
+    color: red
+}
+main{
+    margin: 20px;
+    padding: 20px;
+    /* width: 300px; */
+    border: solid black 2px;
+}
+
+#errors{
+    background-color: palevioletred;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
